@@ -1,0 +1,4 @@
+streamlit
+# 使用しているライブラリ
+model
+PIL
